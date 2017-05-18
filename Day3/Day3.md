@@ -1,14 +1,11 @@
-# 1. Import Project
+TODO
+======
 
-# 2. Customize the toast to show at the top instead of the bottom of the screen. To change how the Toast's classes setGravity method. Refer to the developer documentation!
+## Exercises
+1. Import Project
+2. Customize the toast to show at the top instead of the bottom of the screen.
+3. What is MVC pattern? How does Android use MVC pattern?
 
-
-
-# Readings
-
-## <a href="https://docs.oracle.com/javase/tutorial/java/javaOO/nested.html">Nested Classes</a>
-
-
-# Top Android Blogs
-
-## <a href="http://codecondo.com/top-10-best-blogs-for-android-developers/">Top 10 Best Blogs for Android Developers</a>
+## Readings
+* [Nested Classes](https://docs.oracle.com/javase/tutorial/java/javaOO/nested.html)
+* [Top Android Blogs](http://codecondo.com/top-10-best-blogs-for-android-developers/)
