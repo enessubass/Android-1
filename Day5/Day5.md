@@ -3,6 +3,8 @@ TODO
 
 ## Exercises
 1. Saving Data Across Rotation. 
+2. No more repeating answers.
+3. Graded Quiz. (Display a Toast with a percentage score for the quiz.)
 
 
 ## Readings
