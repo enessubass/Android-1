@@ -26,3 +26,4 @@ TODO
 * [Android Intents & Filters](https://developer.android.com/guide/components/intents-filters.html)
 * [Android Intent Doc](https://developer.android.com/reference/android/content/Intent.html)
 * [Android Intent Tutorial](http://www.vogella.com/tutorials/AndroidIntent/article.html)
+* [Getting a Result from an Activity](https://developer.android.com/training/basics/intents/result.html)
