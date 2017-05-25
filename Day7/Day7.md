@@ -6,7 +6,10 @@ TODO
 
 2. AndroidManifest & Intent (Reading)
 
-
+- You will learn how to:
+* Create a new activity and a new layout for it.
+* Start an activity from another activity. Starting an activity means asking the OS to create an activity instance and call its onCreate(Bundle) method.
+* Pass data between the parent(starting) activity and the child(started) activity.
 
 
 ## Readings
