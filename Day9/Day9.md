@@ -9,6 +9,9 @@ TODO
 
 Use other XML attributes listed in the TextView reference to adjust the size or typeface of the text.)
 
+2. Limited Cheats
+
+Allow the user to cheat a maximum of five times. Keep track of the user's cheat occurrences and display the number of remaining cheat tokens below the cheat button. If no tokens remain, disable the cheat button.
 
 
 ## Readings
