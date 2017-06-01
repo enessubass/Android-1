@@ -3,8 +3,11 @@ TODO
 
 ## Exercises 
 
+
 * [RecyclerView Tutorial](https://www.raywenderlich.com/126528/android-recyclerview-tutorial)
 1. Creating List Activity With RecyclerView
+
+2. Binding List Items (Assignment)
 
 ## Readings
 * [Recycler View](https://developer.android.com/guide/topics/ui/layout/recyclerview.html)
