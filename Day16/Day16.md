@@ -8,17 +8,25 @@ TODO
 
 
 ## Readings
-*[Material Design For Android](https://developer.android.com/design/material/index.html)
-*[Material Design For Developers](https://developer.android.com/training/material/index.html)
-*[Material Design io](https://material.io/guidelines/)
+
+* [Material Design For Android](https://developer.android.com/design/material/index.html)
+
+* [Material Design For Developers](https://developer.android.com/training/material/index.html)
+
+* [Material Design io](https://material.io/guidelines/)
 
 
 ## Useful Android Libraries
-*[GSON](https://github.com/google/gson)
-*[RETROFIT](https://github.com/square/retrofit)
-*[EVENTBUS](https://github.com/greenrobot/EventBus)
-*[ACTIVE ANDROID](http://www.activeandroid.com/)
-*[UNIVERSAL IMAGE LOADER](https://github.com/nostra13/Android-Universal-Image-Loader)
+
+* [GSON](https://github.com/google/gson)
+
+* [RETROFIT](https://github.com/square/retrofit)
+
+* [EVENTBUS](https://github.com/greenrobot/EventBus)
+
+* [ACTIVE ANDROID](http://www.activeandroid.com/)
+
+* [UNIVERSAL IMAGE LOADER](https://github.com/nostra13/Android-Universal-Image-Loader)
 
 
 
