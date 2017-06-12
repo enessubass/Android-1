@@ -5,6 +5,11 @@ TODO
 
 1. Using ViewPager
 - Swiping to page through crimes. (images ref. slides folder)
+* Steps
+- Create the CrimePagerActivity class
+- Define a view hierarchy class that consists of a ViewPager
+- Wire up the ViewPager and its adapter in CrimePagerActivity
+- Modify CrimeHolder.onClick(...) to start CrimePagerActivity instead of CrimeActivity.
 
 
 ## Readings
