@@ -16,7 +16,7 @@ TODO
 * [DatePickerDialog](https://developer.android.com/reference/android/app/DatePickerDialog.html)
 * [DatePickerDialog.OnDateSetListener](https://developer.android.com/reference/android/app/DatePickerDialog.OnDateSetListener.html)
 * [Calendar](https://developer.android.com/reference/java/util/Calendar.html)
-* [Fragment.onActivityResult](https://developer.android.com/reference/android/app/Fragment.html#onActivityResult(int, int, android.content.Intent))
+* [Fragment.onActivityResult](https://developer.android.com/reference/android/app/Fragment.html)
 * [Fragment arguments](https://stackoverflow.com/questions/9245408/best-practice-for-instantiating-a-new-android-fragment)
 
 
