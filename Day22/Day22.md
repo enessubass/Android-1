@@ -3,25 +3,20 @@ TODO
 
 ## Exercises & ToDo 
 
-1. A dialog for picking the date of a crime.
+1. The Toolbar
+- The toolbar includes actions that the user can take, provides an additional mechanism for navigation, and also provides design consistency and branding. You will create a menu for our app that will be displayed in the toolbar. This menu will have an action item that lets users add a new crime. You will also enable the Up button in the toolbar. (Mockup: Slides/3.png)
 
 
 ## Readings
 
-* [Using DialogFragment](https://guides.codepath.com/android/Using-DialogFragment)
-* [Dialogs](https://developer.android.com/guide/topics/ui/dialogs.html)
-* [AlertDialog](https://developer.android.com/reference/android/app/AlertDialog.html)
-* [DialogFragment](https://developer.android.com/reference/android/app/DialogFragment.html)
-* [DialogFragment](https://developer.android.com/reference/android/support/v4/app/DialogFragment.html)
-* [DatePickerDialog](https://developer.android.com/reference/android/app/DatePickerDialog.html)
-* [DatePickerDialog.OnDateSetListener](https://developer.android.com/reference/android/app/DatePickerDialog.OnDateSetListener.html)
-* [Calendar](https://developer.android.com/reference/java/util/Calendar.html)
-* [Fragment.onActivityResult](https://developer.android.com/reference/android/app/Fragment.html)
-* [Fragment arguments](https://stackoverflow.com/questions/9245408/best-practice-for-instantiating-a-new-android-fragment)
+* [Setting up the App Bar](https://developer.android.com/training/appbar/setting-up.html)
+* [Toolbar](https://developer.android.com/reference/android/support/v7/widget/Toolbar.html)
 
 
+## Useful Websites
 
-
+* [LeetCode](https://leetcode.com/problemset/all/)
+* [HackerRank](https://www.hackerrank.com/) 
 
 
 
