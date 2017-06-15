@@ -16,6 +16,7 @@ TODO
 - Localization
 
 4. Midterm Next Friday (June 23).
+- [LeetCode](https://leetcode.com) & SQL
 
 
 
