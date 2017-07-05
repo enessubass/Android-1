@@ -16,7 +16,7 @@ The FragmentManager is responsible for calling onCreateOptionsMenu(Menu, MenuInf
  
  
  
-# <Exercise>
+# Exercise
 ## Deleting Crimes
 * Add a new action item to the CrimeFragment that allows users to delete the current crime. Once the user presses the new delete item, we have to pop the user back to the previous activity. ( finish() method on the CrimeFragment’s hosting activity )
  
