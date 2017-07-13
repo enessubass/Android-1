@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">크리미널 마인드</string>
+    <string name="crime_title_hint">타이틀 입력해 주세요.</string>
+    <string name="crime_title_label">타이틀</string>
+    <string name="crime_details_label">디테일</string>
+    <string name="crime_solved_label">해결</string>
+    <string name="date_picker_title">범행 날짜:</string>
+    <string name="new_crime">새로운 범죄</string>
+    <string name="delete_crime">지우기</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">숨기기</string>
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$d crime</item>
+        <item quantity="other">%1$d crimes</item>
+    </plurals>
+    <string name="crime_suspect_text">범인 고르기</string>
+    <string name="crime_report_text">리포트 보내기</string>
+    <string name="crime_report">%1$s!
+        The Crime was discovered on %2$s. %3$s, and %4$s
+    </string>
+    <string name="crime_report_solved">케이스 Solved</string>
+    <string name="crime_report_unsolved">케이스 Not Solved</string>
+    <string name="crime_report_no_suspect">노 서스펙트</string>
+    <string name="crime_report_suspect">범인 is %s</string>
+    <string name="crime_report_subject">리포트</string>
+    <string name="send_report">리포트 보내기 via</string>
+
+</resources>
