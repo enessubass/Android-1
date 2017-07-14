@@ -16,12 +16,16 @@ import java.util.UUID;
  * Created by park on 2017-06-09.
  */
 
-public class CrimePagerActivity extends AppCompatActivity {
+public class CrimePagerActivity extends AppCompatActivity implements CrimeFragment.Callbacks {
     // Will create and manage the ViewPager
     private ViewPager mViewPager;
     private List<Crime> mCrimes;
     public static final String EXTRA_CRIME_ID = "com.derrick.park.criminalmind.crime_id";
 
+    @Override
+    public void onCrimeUpdated(Crime crime) {
+
+    }
 
     public static Intent newIntent(Context context, UUID crimeId) {
         Intent intent = new Intent(context, CrimePagerActivity.class);
