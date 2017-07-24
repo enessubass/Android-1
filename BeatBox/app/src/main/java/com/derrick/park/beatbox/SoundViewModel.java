@@ -1,10 +1,14 @@
 package com.derrick.park.beatbox;
 
+import android.databinding.BaseObservable;
+import android.databinding.Bindable;
+
 /**
  * Created by park on 2017-07-17.
  */
 
-public class SoundViewModel {
+
+public class SoundViewModel extends BaseObservable {
     private Sound mSound;
     private BeatBox mBeatBox;
 
@@ -16,16 +20,22 @@ public class SoundViewModel {
         return mSound;
     }
 
+    @Bindable
     public String getTitle() {
         return mSound.getName();
     }
 
     public void setSound(Sound sound) {
         mSound = sound;
-        notifyAll();
+        notifyChange();
+//        notifyPropertyChanged(BR.title);
     }
 
     public BeatBox getBeatBox() {
         return mBeatBox;
+    }
+
+    public void onButtonClicked() {
+        mBeatBox.play(mSound);
     }
 }
