@@ -1,12 +1,17 @@
 package com.derrick.park.photolibrary;
 
+import com.google.gson.annotations.SerializedName;
+
 /**
  * Created by park on 2017-07-26.
  */
 
 public class PhotoItem {
+    @SerializedName("title")
     private String mCaption;
+    @SerializedName("id")
     private String mId;
+    @SerializedName("url_s")
     private String mUrl;
 
     @Override
